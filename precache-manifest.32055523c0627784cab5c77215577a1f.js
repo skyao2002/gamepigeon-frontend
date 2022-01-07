@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "746fa099bd1077c1723598295a7deeda",
+    "revision": "da839643c799a0534ab41fc63c8cf155",
     "url": "/skyao2002/gamepigeon-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skyao2002/gamepigeon-frontend/static/css/2.3661fc73.chunk.css"
   },
   {
-    "revision": "08e05347d3cf598e5e33",
+    "revision": "8d9cca640be09811fbc2",
     "url": "/skyao2002/gamepigeon-frontend/static/css/main.e6aab7b7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skyao2002/gamepigeon-frontend/static/js/2.8f4e7eaa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08e05347d3cf598e5e33",
-    "url": "/skyao2002/gamepigeon-frontend/static/js/main.fa791f6f.chunk.js"
+    "revision": "8d9cca640be09811fbc2",
+    "url": "/skyao2002/gamepigeon-frontend/static/js/main.d5510f6f.chunk.js"
   },
   {
     "revision": "0e303bf47c01a20979c9",
