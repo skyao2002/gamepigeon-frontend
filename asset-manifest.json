@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/skyao2002/gamepigeon-frontend/static/css/main.e6aab7b7.chunk.css",
-    "main.js": "/skyao2002/gamepigeon-frontend/static/js/main.7dc53a5b.chunk.js",
-    "main.js.map": "/skyao2002/gamepigeon-frontend/static/js/main.7dc53a5b.chunk.js.map",
+    "main.js": "/skyao2002/gamepigeon-frontend/static/js/main.fa791f6f.chunk.js",
+    "main.js.map": "/skyao2002/gamepigeon-frontend/static/js/main.fa791f6f.chunk.js.map",
     "runtime-main.js": "/skyao2002/gamepigeon-frontend/static/js/runtime-main.83d7aed4.js",
     "runtime-main.js.map": "/skyao2002/gamepigeon-frontend/static/js/runtime-main.83d7aed4.js.map",
     "static/css/2.3661fc73.chunk.css": "/skyao2002/gamepigeon-frontend/static/css/2.3661fc73.chunk.css",
     "static/js/2.8f4e7eaa.chunk.js": "/skyao2002/gamepigeon-frontend/static/js/2.8f4e7eaa.chunk.js",
     "static/js/2.8f4e7eaa.chunk.js.map": "/skyao2002/gamepigeon-frontend/static/js/2.8f4e7eaa.chunk.js.map",
     "index.html": "/skyao2002/gamepigeon-frontend/index.html",
-    "precache-manifest.e34326f818080f7f8035e708f00ba9f9.js": "/skyao2002/gamepigeon-frontend/precache-manifest.e34326f818080f7f8035e708f00ba9f9.js",
+    "precache-manifest.4d2a9cd9c24407d393956f8e5bc9865b.js": "/skyao2002/gamepigeon-frontend/precache-manifest.4d2a9cd9c24407d393956f8e5bc9865b.js",
     "service-worker.js": "/skyao2002/gamepigeon-frontend/service-worker.js",
     "static/css/2.3661fc73.chunk.css.map": "/skyao2002/gamepigeon-frontend/static/css/2.3661fc73.chunk.css.map",
     "static/css/main.e6aab7b7.chunk.css.map": "/skyao2002/gamepigeon-frontend/static/css/main.e6aab7b7.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3661fc73.chunk.css",
     "static/js/2.8f4e7eaa.chunk.js",
     "static/css/main.e6aab7b7.chunk.css",
-    "static/js/main.7dc53a5b.chunk.js"
+    "static/js/main.fa791f6f.chunk.js"
   ]
 }
