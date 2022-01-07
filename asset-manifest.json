@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/skyao2002/gamepigeon-frontend/static/css/main.e6aab7b7.chunk.css",
-    "main.js": "/skyao2002/gamepigeon-frontend/static/js/main.6ce240bb.chunk.js",
-    "main.js.map": "/skyao2002/gamepigeon-frontend/static/js/main.6ce240bb.chunk.js.map",
+    "main.js": "/skyao2002/gamepigeon-frontend/static/js/main.05923e93.chunk.js",
+    "main.js.map": "/skyao2002/gamepigeon-frontend/static/js/main.05923e93.chunk.js.map",
     "runtime-main.js": "/skyao2002/gamepigeon-frontend/static/js/runtime-main.83d7aed4.js",
     "runtime-main.js.map": "/skyao2002/gamepigeon-frontend/static/js/runtime-main.83d7aed4.js.map",
     "static/css/2.3661fc73.chunk.css": "/skyao2002/gamepigeon-frontend/static/css/2.3661fc73.chunk.css",
-    "static/js/2.8e4c4897.chunk.js": "/skyao2002/gamepigeon-frontend/static/js/2.8e4c4897.chunk.js",
-    "static/js/2.8e4c4897.chunk.js.map": "/skyao2002/gamepigeon-frontend/static/js/2.8e4c4897.chunk.js.map",
+    "static/js/2.8f4e7eaa.chunk.js": "/skyao2002/gamepigeon-frontend/static/js/2.8f4e7eaa.chunk.js",
+    "static/js/2.8f4e7eaa.chunk.js.map": "/skyao2002/gamepigeon-frontend/static/js/2.8f4e7eaa.chunk.js.map",
     "index.html": "/skyao2002/gamepigeon-frontend/index.html",
-    "precache-manifest.0a200b8c5ce3fd65c8ee7edddcecd34e.js": "/skyao2002/gamepigeon-frontend/precache-manifest.0a200b8c5ce3fd65c8ee7edddcecd34e.js",
+    "precache-manifest.f5cfeb29d17c0d317c8c5aa98f6e0e61.js": "/skyao2002/gamepigeon-frontend/precache-manifest.f5cfeb29d17c0d317c8c5aa98f6e0e61.js",
     "service-worker.js": "/skyao2002/gamepigeon-frontend/service-worker.js",
     "static/css/2.3661fc73.chunk.css.map": "/skyao2002/gamepigeon-frontend/static/css/2.3661fc73.chunk.css.map",
     "static/css/main.e6aab7b7.chunk.css.map": "/skyao2002/gamepigeon-frontend/static/css/main.e6aab7b7.chunk.css.map",
-    "static/js/2.8e4c4897.chunk.js.LICENSE.txt": "/skyao2002/gamepigeon-frontend/static/js/2.8e4c4897.chunk.js.LICENSE.txt"
+    "static/js/2.8f4e7eaa.chunk.js.LICENSE.txt": "/skyao2002/gamepigeon-frontend/static/js/2.8f4e7eaa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83d7aed4.js",
     "static/css/2.3661fc73.chunk.css",
-    "static/js/2.8e4c4897.chunk.js",
+    "static/js/2.8f4e7eaa.chunk.js",
     "static/css/main.e6aab7b7.chunk.css",
-    "static/js/main.6ce240bb.chunk.js"
+    "static/js/main.05923e93.chunk.js"
   ]
 }
