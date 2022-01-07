@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/skyao2002/gamepigeon-frontend/precache-manifest.f5cfeb29d17c0d317c8c5aa98f6e0e61.js"
+  "/skyao2002/gamepigeon-frontend/precache-manifest.e34326f818080f7f8035e708f00ba9f9.js"
 );
 
 self.addEventListener('message', (event) => {
