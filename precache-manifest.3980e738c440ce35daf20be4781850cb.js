@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a646dd4b592650d9c74f2ccc3c3bb431",
+    "revision": "0bdccfdb0fc476701913599faecd6be2",
     "url": "/skyao2002/gamepigeon-frontend/index.html"
   },
   {
