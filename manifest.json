@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Gamepigeon Solvers",
+  "name": "Gamepigeon WordHunt, WordBites, Anagrams solver",
   "icons": [
     {
       "src": "favicon.ico",
